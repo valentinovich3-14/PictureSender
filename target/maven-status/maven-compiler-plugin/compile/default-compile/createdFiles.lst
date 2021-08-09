@@ -1,0 +1,16 @@
+com\sender\util\EmailSender.class
+com\sender\handler\PictureSenderHandler.class
+com\sender\handler\HelpIntentHandler.class
+com\sender\MainHandler.class
+com\sender\util\EmailSender$1.class
+com\sender\util\PictureDelivery.class
+com\sender\dto\Hit.class
+com\sender\sender\PictureSender.class
+com\sender\handler\FallbackIntentHandler.class
+com\sender\handler\LaunchRequestHandler.class
+com\sender\handler\SessionEndedRequestHandler.class
+com\sender\util\ClientHttp.class
+com\sender\exceptions\CantFindPictureException.class
+com\sender\dto\Json.class
+com\sender\exceptions\DontKnowPersonException.class
+com\sender\handler\CancelandStopIntentHandler.class

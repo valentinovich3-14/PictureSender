@@ -1,0 +1,15 @@
+C:\Users\Denys\IdeaProjects\PictureSender\src\main\java\com\sender\exceptions\CantFindPictureException.java
+C:\Users\Denys\IdeaProjects\PictureSender\src\main\java\com\sender\handler\FallbackIntentHandler.java
+C:\Users\Denys\IdeaProjects\PictureSender\src\main\java\com\sender\sender\PictureSender.java
+C:\Users\Denys\IdeaProjects\PictureSender\src\main\java\com\sender\MainHandler.java
+C:\Users\Denys\IdeaProjects\PictureSender\src\main\java\com\sender\handler\SessionEndedRequestHandler.java
+C:\Users\Denys\IdeaProjects\PictureSender\src\main\java\com\sender\handler\HelpIntentHandler.java
+C:\Users\Denys\IdeaProjects\PictureSender\src\main\java\com\sender\handler\CancelandStopIntentHandler.java
+C:\Users\Denys\IdeaProjects\PictureSender\src\main\java\com\sender\util\ClientHttp.java
+C:\Users\Denys\IdeaProjects\PictureSender\src\main\java\com\sender\dto\Json.java
+C:\Users\Denys\IdeaProjects\PictureSender\src\main\java\com\sender\util\PictureDelivery.java
+C:\Users\Denys\IdeaProjects\PictureSender\src\main\java\com\sender\dto\Hit.java
+C:\Users\Denys\IdeaProjects\PictureSender\src\main\java\com\sender\exceptions\DontKnowPersonException.java
+C:\Users\Denys\IdeaProjects\PictureSender\src\main\java\com\sender\handler\LaunchRequestHandler.java
+C:\Users\Denys\IdeaProjects\PictureSender\src\main\java\com\sender\handler\PictureSenderHandler.java
+C:\Users\Denys\IdeaProjects\PictureSender\src\main\java\com\sender\util\EmailSender.java

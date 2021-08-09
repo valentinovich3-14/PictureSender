@@ -1,0 +1,10 @@
+{
+  "body": {
+    "version": "1.0",
+    "response": {
+      "type": "_DEFAULT_RESPONSE"
+    },
+    "sessionAttributes": {},
+    "userAgent": "ask-java/2.39.0 Java/11.0.11 templateResolver"
+  }
+}

@@ -1,0 +1,7 @@
+com\sender\sender\PictureSenderTest.class
+com\sender\util\EmailSenderTest.class
+com\sender\SeleniumTest.class
+com\sender\util\ClientHttpTest$1.class
+com\sender\util\ClientHttpTest.class
+com\sender\util\PictureDeliveryTest.class
+com\sender\utils\MailReader.class

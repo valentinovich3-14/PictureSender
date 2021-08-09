@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="ask-sdk-core-2.39.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/jars/ask-sdk-core-2.39.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jars/ask-sdk-model-1.35.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jars/ask-sdk-model-runtime-1.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jars/ask-sdk-runtime-2.39.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jars/jackson-annotations-2.10.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jars/jackson-core-2.10.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jars/jackson-databind-2.10.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jars/jackson-datatype-jsr310-2.10.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jars/log4j-api-2.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jars/log4j-slf4j-impl-2.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/jars/slf4j-api-1.7.24.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
